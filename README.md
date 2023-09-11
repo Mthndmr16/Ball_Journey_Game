@@ -4,9 +4,18 @@ Warning! It only works on touch screens. Please build as "apk. Contact for Keyst
 
 Crafted with Unity, Ball Journey delivers a unique casual gaming experience.    
 
+Features:
 
 
-A non-drenuous, simple interface.
+-Challenging obstacles in different colors and shapes.
+
+-Simple, intuitive controls.
+
+-Eye-catching graphics and animations.
+
+-A fun and addictive gaming experience suitable for all ages.
+
+-A non-drenuous, simple interface.
 
 
 ![1](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/7b999874-3780-4249-b09f-8c609cb07272)                       ![3](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/02370b55-7ae0-4e79-8b55-44ed25f5098c)
