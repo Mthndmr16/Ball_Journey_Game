@@ -8,16 +8,25 @@ Crafted with Unity, Ball Journey delivers a unique casual gaming experience.
 
 A non-drenuous, simple interface.
 
-![1](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/4c2ab63a-34d8-4aa4-81a4-aa2d30195302)
+
+![1](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/7b999874-3780-4249-b09f-8c609cb07272)                                 ![3](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/02370b55-7ae0-4e79-8b55-44ed25f5098c)
 
 
-![3](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/ad08a829-4a04-4541-9632-24fd64209e61)
+
+
+
+
+
 
 
 Different Ball effects.
 
-![6](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/92ef2d52-3eab-47c5-b500-bf0875708ac2)
 
 
-![8](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/374bed0d-987b-4dd6-b0d3-ee8399755eba)
+![6](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/9cc1f80c-bcb3-4c8e-987e-3de276d0e7b0)                                  ![8](https://github.com/Mthndmr16/Ball_Journey_Game/assets/93436285/64fe181d-1991-4060-8501-7e70d2b8ba3c)
+
+
+
+
+
 
