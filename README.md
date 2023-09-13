@@ -1,5 +1,5 @@
 # Ball_Journey_Game
-****Warning! IT ONLY WORKS ON TOUCH SCREENS.**** Please build as "apk. **Keystore:** 13456789
+****Warning! IT ONLY WORKS ON TOUCH SCREENS.**** Please build as "apk. **Keystore:** 123456789
 
 
 Created with Unity, Ball Journey delivers a unique casual gaming experience.    
